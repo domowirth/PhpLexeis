@@ -1,0 +1,87 @@
+body {
+    background-color: aliceblue;
+    font-family: Helvetica;
+}
+
+table {
+    width: 100%;
+}
+
+td.word {
+    width: 45%;
+}
+
+.wordspanel td {
+    padding: 20px;
+    background-color:#eee;
+}
+
+td.link {
+    text-align: center;
+    background-color: #666;
+}
+
+td.link a {
+    color: white;
+    text-decoration: none;
+}
+
+td.navi {
+    color:white;
+    background-color: lightsteelblue;
+    text-align: center;
+}
+
+td.navi a {
+    color: white;
+    text-decoration: none;
+}
+
+td.covered {
+    width: 45%;
+    color:#666;
+    background-color:#666;
+}
+
+.selected {
+    margin: 30px 10px 20px 10px;
+}
+
+.selected span {
+    font-weight: bold;
+}
+
+.menu {
+    
+    margin-bottom: 10px;
+    padding: 10px;
+    text-align: right;
+    background-color: #0578a0;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+}
+
+@media screen and (min-width: 601px) {
+    .wordspanel {
+        margin: auto;
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .wordspanel {
+        margin: auto;
+        width: 75%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .wordspanel {
+        margin: auto;
+        width: 100%;
+    }
+}
+
