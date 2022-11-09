@@ -9,9 +9,12 @@ require_once 'application/classes/lexeis/Meaning.class.php';
 require_once 'application/classes/lexeis/Unit.class.php';
 require_once 'application/classes/lexeis/Units.class.php';
 require_once 'application/classes/lexeis/LexeisParser.class.php';
+require_once 'application/classes/lexeis/Session.class.php';
 
+$session = new Session();
+$fileName = $session->retrieveFileName();
 $parser = new LexeisParser();
-$units = $parser->parse("backup.xml");
+$units = $parser->parse($fileName);
 ?><!DOCTYPE html>
 <html>
     <head>
@@ -19,7 +22,7 @@ $units = $parser->parse("backup.xml");
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="js/jquery-3.1.1.min.js"></script>
         <link rel="stylesheet" type="text/css" href="css/phplexeis.css"> 
-        <title>Test</title>
+        <title>Test (<?= $fileName ?>)</title>
     </head>
     <body>
         <div class="menu"><a href="list.php">Zur Liste</a> | <a href="lesson.php?lesson=1">Zur Lektion 1</a></div>
@@ -53,21 +56,21 @@ $units = $parser->parse("backup.xml");
                 var selected = $("#selected").html();
                 if (text === selected) {
                     $(id).css("color", "white");
-                    $(id).css("background-color", "#52c76f");
+                    $(id).css("background-color", "#52c76f"); // grün
                     $(id).fadeOut(1000, function () {
                         location.reload()
                     })
                 } else {
                     $(id).css("color", "black");
-                    $(id).css("background-color", "#c75652");
+                    $(id).css("background-color", "#c75652"); // rot
 
 
                     $(".hit").css("color", "white");
-                    $(".hit").css("background-color", "#52c76f");
-                    
+                    $(".hit").css("background-color", "#52c76f"); // grün
+
                     setTimeout(
                             function () {
-                               location.reload();
+                                location.reload();
                             }, 2000);
                 }
             }

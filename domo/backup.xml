@@ -4217,6 +4217,7 @@
         </first_meaning>
         <second_meaning>
           <value>το κόκκαλο</value>
+          <value>το οστό</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -4887,7 +4888,7 @@
           <value>Parade</value>
         </first_meaning>
         <second_meaning>
-          <value>η παρέλαυση</value>
+          <value>η παρέλαση</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -5923,7 +5924,7 @@
           <value>Mikrocontroller</value>
         </first_meaning>
         <second_meaning>
-          <value>η μικροελεγκτή</value>
+          <value>ο μικροελεγκτής</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -7098,6 +7099,7 @@
         </first_meaning>
         <second_meaning>
           <value>υποστηρίζω</value>
+          <value>συνδράμω</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -8049,6 +8051,7 @@
       <vocable>
         <first_meaning>
           <value>abgelaufen</value>
+          <value>fällig</value>
         </first_meaning>
         <second_meaning>
           <value>ληξιπρόθεσμος</value>
@@ -8514,6 +8517,8 @@
         </first_meaning>
         <second_meaning>
           <value>το σούρουπο</value>
+          <value>το δειλινό</value>
+          <value>το λυκόφως</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -8912,6 +8917,7 @@
         </first_meaning>
         <second_meaning>
           <value>ο κρότος</value>
+          <value>ο πάταγος</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -9874,6 +9880,7 @@
         </first_meaning>
         <second_meaning>
           <value>ουσιαστικός</value>
+          <value>ουσιώδης</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -10659,6 +10666,7 @@
         </first_meaning>
         <second_meaning>
           <value>ο εφιάλτης</value>
+          <value>ο βραχνάς</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -13569,7 +13577,16 @@
         <second_meaning>
           <value>προσκομίζω</value>
         </second_meaning>
-      </vocable>      
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Schwanzlutschen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το βεντούζωμα</value>
+        </second_meaning>
+        <hint>βεντουζώνω, βεντουζώθηκα</hint>
+      </vocable>
       <vocable>
         <first_meaning>
           <value>Schlagrahm</value>
@@ -15911,6 +15928,8 @@
         </first_meaning>
         <second_meaning>
           <value>σιχαμερός</value>
+          <value>αηδιαστικός</value>
+          <value>βδελυρός</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -16324,14 +16343,6 @@
       </vocable>
       <vocable>
         <first_meaning>
-          <value>aufs Spiel setzen</value>
-        </first_meaning>
-        <second_meaning>
-          <value>διακυβεύω</value>
-        </second_meaning>
-      </vocable>
-      <vocable>
-        <first_meaning>
           <value>Langeweile</value>
         </first_meaning>
         <second_meaning>
@@ -16463,6 +16474,7 @@
       <vocable>
         <first_meaning>
           <value>Pier</value>
+          <value>Kai</value>
         </first_meaning>
         <second_meaning>
           <value>η προβλήτα</value>
@@ -16991,6 +17003,7 @@
         </first_meaning>
         <second_meaning>
           <value>υποκρίνομαι</value>
+          <value>προσποιούμαι</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -17190,6 +17203,7 @@
         </first_meaning>
         <second_meaning>
           <value>η αυτοπεποίθηση</value>
+          <value>το ηθικό</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -17449,7 +17463,8 @@
       </vocable>
       <vocable>
         <first_meaning>
-          <value>Stichelei</value>
+          <value>Stich</value>
+          <value>pl.: Stichelei</value>
         </first_meaning>
         <second_meaning>
           <value>η μπηχτή</value>
@@ -17819,6 +17834,7 @@
         <second_meaning>
           <value>καταλαγιάζω</value>
         </second_meaning>
+        <hint>ο κουρνιαχτός καταλαγιάζει</hint>
       </vocable>
       <vocable>
         <first_meaning>
@@ -17978,6 +17994,7 @@
           <value>Korrespondenz</value>
           <value>Entsprechung</value>
           <value>Berichterstattung</value>
+          <value>Anschluss</value>
         </first_meaning>
         <second_meaning>
           <value>η ανταπόκριση</value>
@@ -18639,6 +18656,8 @@
         </first_meaning>
         <second_meaning>
           <value>πλησιάζω κάτι</value>
+          <value>πλευρίζω κάτι</value>
+          <value>διπλαρώνω κάτι</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -19021,6 +19040,7 @@
       <vocable>
         <first_meaning>
           <value>Zuwendung</value>
+          <value>Sponsoring</value>
         </first_meaning>
         <second_meaning>
           <value>η χορηγία</value>
@@ -19376,6 +19396,7 @@
           <value>η κλανιά</value>
           <value>η πορδή</value>
         </second_meaning>
+        <hint>κάνω την πορδή βροντή</hint>
       </vocable>
       <vocable>
         <first_meaning>
@@ -19518,6 +19539,7 @@
         <second_meaning>
           <value>εσκεμμένος</value>
         </second_meaning>
+        <hint>εσκεμμένα wohlweislich</hint>
       </vocable>
       <vocable>
         <first_meaning>
@@ -19836,9 +19858,12 @@
       <vocable>
         <first_meaning>
           <value>Habgier</value>
+          <value>Gier</value>
         </first_meaning>
         <second_meaning>
           <value>η απληστία</value>
+          <value>η αδηφαγία</value>
+          <value>η λαιμαργία</value>
         </second_meaning>
       </vocable>
       <vocable>
@@ -20614,6 +20639,8 @@
       <vocable>
         <first_meaning>
           <value>rümpfen</value>
+          <value>zerknittern</value>
+          <value>mitlaufen lassen</value>
         </first_meaning>
         <second_meaning>
           <value>σουφρώνω</value>
@@ -22181,6 +22208,987 @@
         </first_meaning>
         <second_meaning>
           <value>η κηδεμονία</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Streuung</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η σκέδαση</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Balkon</value>
+          <value>Rang</value>
+          <value>Galerie</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο εξώστης</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Tapete</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η ταπετσαρία</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>glänzend</value>
+        </first_meaning>
+        <second_meaning>
+          <value>γυαλιστερός</value>
+          <value>στιλπνός</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>glatt</value>
+        </first_meaning>
+        <second_meaning>
+          <value>λείος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>zugrunde gehen</value>
+          <value>verwüsten</value>
+          <value>ruinieren</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ρημάζω</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>zerbrechen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>σπάζω</value>
+          <value>ραγίζω</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Umgebung</value>
+          <value>Milieu</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο περίγυρος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Interpolation</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η παρεμβολή</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Stickstoff</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το άζωτο</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>suggestiv</value>
+        </first_meaning>
+        <second_meaning>
+          <value>υποβλητικός</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Tapferkeit</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η γενναιότητα</value>
+          <value>το θάρρος</value>
+          <value>η ανδρεία</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Selbstverleugnung</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η αυταπάρνηση</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Puls</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο σφυγμός</value>
+          <value>ο παλμός</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Fächer</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η βεντάλια</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Saugglocke</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η βεντούζα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>sieben</value>
+          <value>abseihen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>σουρώνω</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Sieb</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το σουρωτήρι</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Umgangssprache</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η καθομιλουμένη</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>übertreiben</value>
+        </first_meaning>
+        <second_meaning>
+          <value>υπερβάλλω</value>
+          <value>παραλέω</value>
+          <value>παρατραβάω</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>skrupellos</value>
+          <value>entschlossen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>αδίστακτος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>wenn man vom Teufel spricht</value>
+        </first_meaning>
+        <second_meaning>
+          <value>κατα φωνή (και ο γάιδαρος)</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Sprungbrett</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το εφαλτήριο</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Orakelspruch</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο χρησμός</value>
+        </second_meaning>
+      </vocable>
+    </vocables>
+  </unit>
+  <unit>
+    <title>54</title>
+    <vocables>
+      <vocable>
+        <first_meaning>
+          <value>vollkommen</value>
+          <value>sensationell</value>
+        </first_meaning>
+        <second_meaning>
+          <value>παταγώδης</value>
+        </second_meaning>
+        <hint>ο πάταγος, παταγωδώς</hint>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>unstillbar</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ασίγαστος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Bund</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η αρμαθιά</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Amt</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το αξίωμα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Klugscheisser</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο εξυπνάκιας, -ηδες</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Vegetation</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η βλάστηση</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Flora</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η χλωρίδα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Fauna</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η πανίδα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Raubkatze</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο αίλουρος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>katzenartig</value>
+        </first_meaning>
+        <second_meaning>
+          <value>αιλουροειδής</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>zwischenmenschlich</value>
+        </first_meaning>
+        <second_meaning>
+          <value>διαπροσωπικός</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Pfeiler</value>
+          <value>Portal</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο πυλώνας</value>
+        </second_meaning>
+        <hint>η πυλωτή</hint>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>überbieten</value>
+        </first_meaning>
+        <second_meaning>
+          <value>πλειοδοτώ</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Spruch</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το απόφθεγμα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Protestant</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο διαμαρτυρόμενος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Gewährung</value>
+          <value>Erteilung</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η χορήγηση</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>genial</value>
+        </first_meaning>
+        <second_meaning>
+          <value>μεγαλοφυής</value>
+          <value>δαιμόνιος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>widerrufen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ανακαλώ</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>gerissen</value>
+          <value>kokett</value>
+        </first_meaning>
+        <second_meaning>
+          <value>τσαχπίνης</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>heiter</value>
+        </first_meaning>
+        <second_meaning>
+          <value>πρόσχαρος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Kleinstadt</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η κωμόπολη</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Zutat</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το συστατικό</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Felge</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η ζάντα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Versicherungsprämie</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το ασφάλιστρο</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Spassvogel</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο χωρατατζής</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Kapitulation</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η συνθηκολόγηση</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>unwesentlich</value>
+        </first_meaning>
+        <second_meaning>
+          <value>επουσιώδης</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>nichtsnutzig</value>
+        </first_meaning>
+        <second_meaning>
+          <value>αχαΐρευτος</value>
+          <value>άχρηστος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Vektor</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το διάνυσμα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Denker</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο στοχαστής</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Schachfigur</value>
+          <value>Bauer</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το πιόνι</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Schachzug</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το στρατήγημα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>verleugnen</value>
+          <value>(Gewohnh.) ablegen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>απαρνιέμαι</value>
+        </second_meaning>
+        <hint>αυταπάρνηση</hint>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>triebhaft</value>
+        </first_meaning>
+        <second_meaning>
+          <value>παρορμητικός</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>ärgern</value>
+        </first_meaning>
+        <second_meaning>
+          <value>τσαντίζω</value>
+          <value>νευριάζω</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>düster</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ζοφερός</value>
+          <value>σκοτεινός</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>piekfein</value>
+        </first_meaning>
+        <second_meaning>
+          <value>λουσάτος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Freimütigkeit</value>
+          <value>Offenheit</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η παρρησία</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>niedergeschlagen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>καταβεβλημένος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>überhebliche Eingebildetheit</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το καβάλημα καλαμιού</value>
+          <value>καβαλάω το καλάμι</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>in Wut geraten</value>
+        </first_meaning>
+        <second_meaning>
+          <value>φουρκίζομαι</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>wuchern</value>
+        </first_meaning>
+        <second_meaning>
+          <value>θεριεύω</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>iahen (Esel)</value>
+        </first_meaning>
+        <second_meaning>
+          <value>γκαρίζω</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Fontäne</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο πίδακας</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>umwandeln</value>
+        </first_meaning>
+        <second_meaning>
+          <value>μετουσιώνω</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>duften</value>
+        </first_meaning>
+        <second_meaning>
+          <value>μοσχοβολώ</value>
+          <value>μοσχομυρίζω</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>einzigartig</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ανεπανάληπτος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Spielball von...</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το άθυρμα</value>
+          <value>το έρμαιο</value>
+        </second_meaning>
+        <hint>άθυρμα της μοίρας, έρμαιο των παθών</hint>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Teer</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η πίσσα</value>
+          <value>το κατράμι</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>unerschöpflich</value>
+        </first_meaning>
+        <second_meaning>
+          <value>αστείρευτος</value>
+        </second_meaning>
+      </vocable>
+    </vocables>
+  </unit>
+  <unit>
+    <title>55</title>
+    <vocables>
+      <vocable>
+        <first_meaning>
+          <value>Intrige</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η πλεκτάνη</value>
+          <value>η δολοπλοκία</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>umgänglich</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ευπροσήγορος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Etikette</value>
+          <value>Förmlichkeit</value>
+          <value>Zeremoniell</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η εθιμοτυπία</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Dachs</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο ασβός</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Brechung des Lichts</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η διάθλαση του φωτός</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>in Form bringen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>σουλουπώνω</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Heiterkeit</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η θυμηδία</value>
+          <value>η ευθυμία</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Schneewetter</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο χιονιάς</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>komme in Versuchung</value>
+        </first_meaning>
+        <second_meaning>
+          <value>κολάζομαι</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Verständnislosigkeit</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η ασυνεννοησία</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Grenzstein</value>
+          <value>Meilenstein</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το ορόσημο</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Genom</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το γονιδίωμα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Blutegel</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η βδέλλα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Gitterrolladen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το κεπέγκι</value>
+        </second_meaning>
+        <hint>το ρολό του μαγαζιού</hint>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Kerbel</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το μυρώνι</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>fertigwerden mit</value>
+        </first_meaning>
+        <second_meaning>
+          <value>αντεπεξέρχομαι με</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>schnelles Geld</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η αρπαχτή</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Wachtel</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το ορτύκι</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Infinitesimalrechnung</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο απειροτικός λογισμός</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Integral</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το ολοκλήρωμα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Ursache und Wirkung</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το αίτιο και το αιτιατό</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>massiv</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ατόφιος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>gewandt</value>
+        </first_meaning>
+        <second_meaning>
+          <value>εύστροφος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>die Spatzen pfeifen es von den Dächern</value>
+        </first_meaning>
+        <second_meaning>
+          <value>Ο κόσμος το έχει τούμπανο κι αυτός κρυφό καμάρι</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>wir sitzen alle im gleichen Boot</value>
+        </first_meaning>
+        <second_meaning>
+          <value>όλοι στο ίδιο καζάνι βράζουμε</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>kleine Menge</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η τζούρα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Marder</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το κουνάβι</value>
+          <value>η ατσίδα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Souvenir</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το αναμνηστικό</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Unkraut verdirbt nicht</value>
+        </first_meaning>
+        <second_meaning>
+          <value>κακό σκυλί ψόφο δεν έχει</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>mit/ohne Kohlensäure</value>
+        </first_meaning>
+        <second_meaning>
+          <value>με/χωρίς ανθρακικό</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>verdrängen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>εκτοπίζω</value>
+          <value>απωθώ</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>brach</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ακαλλιέργητος</value>
+          <value>χέρσος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Brache</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η αλάνα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Zuhälter</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο νταβατζής</value>
+          <value>ο προστάτης</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>offenes Geheimnis</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το βούκινο</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Vorbehalt</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ο ενδοιασμός</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>unbedeutend</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ευκαταφρόνητος</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Katzenhai</value>
+        </first_meaning>
+        <second_meaning>
+          <value>το σκυλόψαρο</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Seehund</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η φώκια</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>einstreichen</value>
+        </first_meaning>
+        <second_meaning>
+          <value>ενθυλακώνω</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Nebel</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η αντάρα</value>
+        </second_meaning>
+      </vocable>
+      <vocable>
+        <first_meaning>
+          <value>Gruppe</value>
+        </first_meaning>
+        <second_meaning>
+          <value>η συστάδα</value>
         </second_meaning>
       </vocable>
     </vocables>
